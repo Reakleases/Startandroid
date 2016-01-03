@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Startandroid.iml" filepath="$PROJECT_DIR$/Startandroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0061Layouts/p0061Layouts.iml" filepath="$PROJECT_DIR$/p0061Layouts/p0061Layouts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/poo72layoutProp/poo72layoutProp.iml" filepath="$PROJECT_DIR$/poo72layoutProp/poo72layoutProp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0072layoutProp/p0072layoutProp.iml" filepath="$PROJECT_DIR$/p0072layoutProp/p0072layoutProp.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0081VviewById/p0081VviewById.iml" filepath="$PROJECT_DIR$/p0081VviewById/p0081VviewById.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0091onclickbuttons/p0091onclickbuttons.iml" filepath="$PROJECT_DIR$/p0091onclickbuttons/p0091onclickbuttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0101listener/p0101listener.iml" filepath="$PROJECT_DIR$/p0101listener/p0101listener.iml" />
@@ -18,7 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0141menuadv/p0141menuadv.iml" filepath="$PROJECT_DIR$/p0141menuadv/p0141menuadv.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0151contextmenu/p0151contextmenu.iml" filepath="$PROJECT_DIR$/p0151contextmenu/p0151contextmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0161dynamiclayout/p0161dynamiclayout.iml" filepath="$PROJECT_DIR$/p0161dynamiclayout/p0161dynamiclayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/startandroid.iml" filepath="$PROJECT_DIR$/startandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0171dynamiclayout2/p0171dynamiclayout2.iml" filepath="$PROJECT_DIR$/p0171dynamiclayout2/p0171dynamiclayout2.iml" />
     </modules>
   </component>
 </project>
