@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0151contextmenu/p0151contextmenu.iml" filepath="$PROJECT_DIR$/p0151contextmenu/p0151contextmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0161dynamiclayout/p0161dynamiclayout.iml" filepath="$PROJECT_DIR$/p0161dynamiclayout/p0161dynamiclayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0171dynamiclayout2/p0171dynamiclayout2.iml" filepath="$PROJECT_DIR$/p0171dynamiclayout2/p0171dynamiclayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0191simplecalculator/p0191simplecalculator.iml" filepath="$PROJECT_DIR$/p0191simplecalculator/p0191simplecalculator.iml" />
     </modules>
   </component>
 </project>

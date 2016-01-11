@@ -72,7 +72,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
 
             case R.id.btnClear:
                 llMain.removeAllViews();
-                Toast.makeText(this, "Удалено", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Удалено",  Toast.LENGTH_SHORT).show();
                 break;
 
         }
